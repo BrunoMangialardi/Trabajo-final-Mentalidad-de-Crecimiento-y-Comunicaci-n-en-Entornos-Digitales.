@@ -13,3 +13,16 @@ Especialmente le promedio de días  y ciertos indicadores que dependían de rela
 Esto creo una especie de frustración, la cual no duró mucho tiempo pero me llevo a probar diferentes maneras de solucionar mi problema y asi tambien tomar un descanso / respiro, para poder pensar con la mente en frío y claridad.
 
 # Acciones:
+1. Revise el modelo de datos y tablas.
+2. Comparé con algunos trabajos de mis compañeros para entender mis errores.
+3. Corregí las medidas DAX
+4. Probe diferentes configuraciones de segmentadores.
+5. Pude implementar lo solicitado de manera correcta y eficiente.
+
+# Aprendizajes:
+1. La calma sobre estas situaciones en las cuales tal vez no sabes aplicar los contenidos es clave.
+2. Los errores pequeños sirven dejar por sentado cosas que ya probaste y asi ya no volver a cometerlos.
+3. El diseño y la comunicación visual son tan importantes como los calculos detras.
+4. Documentar el proceso ayuda a detectar los problemas más rapido.
+
+
