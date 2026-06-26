@@ -13,7 +13,7 @@ Especialmente le promedio de días  y ciertos indicadores que dependían de rela
 Esto creo una especie de frustración, la cual no duró mucho tiempo pero me llevo a probar diferentes maneras de solucionar mi problema y asi tambien tomar un descanso / respiro, para poder pensar con la mente en frío y claridad.
 
 # Acciones:
-1. Revise el modelo de datos y tablas.
+1. Revisé el modelo de datos y tablas.
 2. Comparé con algunos trabajos de mis compañeros para entender mis errores.
 3. Corregí las medidas DAX
 4. Probe diferentes configuraciones de segmentadores.
@@ -26,3 +26,5 @@ Esto creo una especie de frustración, la cual no duró mucho tiempo pero me lle
 4. Documentar el proceso ayuda a detectar los problemas más rapido.
 
 
+# Reflexión: 
+Durante el proceso con ayuda de los trabajos hechos por mis compañeros los cuales poseen más experiencia pude guiarme y resolver mis dudas y problemas. Tambien pude utilizar la IA como apoyo para encontrar ciertos botones o funciones dentro de la aplicación de Power BI. Aplicar el feedback de manera abierta también me permitió mejorar tanto la precisión de los calculos como la claridad de mis pensamientos y presentación final.
